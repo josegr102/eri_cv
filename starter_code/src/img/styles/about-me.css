@@ -1,0 +1,108 @@
+
+
+.boton_cv{
+
+    color: white;
+    background-color: navy;
+    font-weight: bolder;
+    padding-top: 200px;
+    padding: 15px 50px;
+}
+.boton_2{
+   
+    padding-left: 0px;
+    
+    
+}
+.iconos{
+    border-color: navy;
+    display: inline;
+
+    padding-right: 10px;
+    
+}
+.about-me{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 250px;
+
+}
+
+.foto{
+    width: 350px;
+    height: 350px;
+    
+}
+#lo{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    
+    margin-right: 50px;
+   
+}
+.parrafo-menu{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    color: navy;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.flecha{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center; 
+    margin-bottom: 300px;
+}
+.fingido{
+   
+    padding-left: 0px;
+    font-size: 30px;
+
+    
+    
+}
+.icono_2{
+    border-color: navy;
+    display: inline;
+    padding-top: 200px;
+    
+
+    padding-right: 0px;
+    
+    
+}
+.icono_2 button{
+    padding: 15px;
+    
+}
+.textob button{
+    color: white;
+}
+.textonavy button{
+    color: navy;
+}
+.mac{
+    width: 450px;
+    height: 300px;
+    
+}
+.about-yo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 250px;
+
+}
+.about-yo h2{
+    font-size: 30px;
+    color: white;
+    
+    display: inline;
+    border-style:solid;
+    border-color:navy;
+    background-color: navy;
+
+}

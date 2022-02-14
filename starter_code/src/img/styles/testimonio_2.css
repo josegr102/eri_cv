@@ -1,0 +1,31 @@
+.testimonio_2{
+    width: 100%;
+    text-align: center;
+    border-style: solid;
+    box-sizing: border-box;
+    border-radius: 15px;
+    margin-bottom: 300px;
+}
+
+.testimonio_2 img{
+    
+    align-content: stretch;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    width: 70px;
+    height: 70px;
+}
+
+
+.testimonio_2 h1{
+    font-size: 30px;
+
+
+    
+    
+}
+.testimonio_2 h2 {
+    font-size: 20px;
+    color:#585ebf;
+}

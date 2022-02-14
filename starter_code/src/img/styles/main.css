@@ -1,0 +1,65 @@
+@import url(./about-me.css);
+@import url(./styles.css);
+@import url(./marvol.css);
+@import url(./testimonio_2.css);
+@import url(./style_neo.css);
+@import url(./testimonio_3.css);
+
+
+
+@media screen and (max-width: 600px) {
+    body{
+        margin:0;
+        padding:0;
+    }
+    .celular{
+        display: block;
+    }
+    .parrafo-menu {
+        display: none;
+    }
+    .about-me {
+        display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-around;
+    margin-bottom: 250px;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    }
+    .menu{
+        flex-direction: row;
+        align-items: baseline
+    }
+    .about-yo{
+        display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-around;
+    margin-bottom: 250px;
+    flex-wrap: wrap;
+    }
+    .cap-marvel{
+        display: flex;
+    flex-direction: column-reverse;
+    margin-bottom: 250px;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    }
+    .matrix{
+        display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-around;
+    margin-bottom: 250px;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    }
+    .foto_celular img  {
+        width: 100%;
+        height:auto;
+        
+    }
+    
+    
+    
+    
+}

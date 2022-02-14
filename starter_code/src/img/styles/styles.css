@@ -1,0 +1,58 @@
+body{
+    
+    background: linear-gradient(to right, #8360c3, #2ebf91);
+    font-family: 'Poppins', sans-serif;
+    color: navy;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.menu{
+    color: navy;
+    font-family: 'Rowdies', cursive;
+    display: flex;
+    align-items: flex-start;
+
+}
+.menu button{
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-color: navy;
+    border-style: solid;
+    border-width: 2px;
+    background-color:navy;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    cursor: pointer;
+}
+.celular{
+    display: none;
+}
+#about-me h2{
+font-size: 40px;
+   
+}
+.testimonio{
+    width: 100%;
+    text-align: center;
+    border-style: solid;
+    box-sizing: border-box;
+    border-radius: 15px;
+    margin-bottom: 300px;
+}
+.testimonio h1{
+    font-size: 30px;
+
+
+    
+    
+}
+.testimonio h2 {
+    font-size: 20px;
+    color:#585ebf;
+}

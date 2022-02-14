@@ -1,0 +1,43 @@
+.foto_3 img {
+    width: 350px;
+    height: 350px;
+}
+.matrix{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 250px;
+}
+.matrix p {
+    font-size: 20px;
+    color: navy;
+    font-family: 'Poppins', sans-serif;
+}
+.neo h2{
+    font-size: 30px;
+    color: white;
+    
+    display: inline;
+    border-style:solid;
+    border-color:navy;
+    background-color: navy;
+}
+
+
+.icono_4{
+    border-color: navy;
+    display: inline;
+    padding-top: 200px;
+    padding-right: 0px;
+    
+}
+.icono_4 button{
+    padding: 15px;
+}
+
+.fingido_3{
+       
+    padding-left: 0px;
+    font-size: 30px;
+    
+}

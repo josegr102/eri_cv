@@ -1,0 +1,43 @@
+.foto_2 img {
+    width: 350px;
+    height: 350px;
+}
+.cap-marvel{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 250px;
+}
+.cap-marvel p {
+    font-size: 20px;
+    color: navy;
+    font-family: 'Poppins', sans-serif;
+}
+.marvi h2{
+    font-size: 30px;
+    color: white;
+    
+    display: inline;
+    border-style:solid;
+    border-color:navy;
+    background-color: navy;
+}
+
+
+.icono_3{
+    border-color: navy;
+    display: inline;
+    padding-top: 200px;
+    padding-right: 0px;
+    
+}
+.icono_3 button{
+    padding: 15px;
+}
+
+.fingido_2{
+       
+    padding-left: 0px;
+    font-size: 30px;
+    
+}
